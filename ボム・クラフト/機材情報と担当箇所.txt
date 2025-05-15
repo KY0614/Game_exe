@@ -1,0 +1,4 @@
+動作確認を行った機材：PC(OS:Windows10,グラフィックハードウェア:NVIDIA GeForce RTX 2070)
+
+担当場所：ゲーム中のブロック機能(Src/Object/Blockフォルダ内のクラス全て、
+Src/Scene/EasyGameScene、NormalGameScene、HardGameSceneクラスの中のブロック機能)

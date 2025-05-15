@@ -1,0 +1,5 @@
+動作確認を行った機材：PC(OS:Windows10,グラフィックハードウェア:NVIDIA GeForce RTX 2070)
+
+担当場所：選択画面全てとゲーム中のカメラ機能(Src/Scene/SelectSceneクラス、
+Src/Object/Character/PlayableChara/Other/WaitEnemyクラスとSelectCharaクラス、
+Src/manager/Generic/Cameraクラス)

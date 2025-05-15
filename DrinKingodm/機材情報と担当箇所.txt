@@ -1,0 +1,6 @@
+動作確認を行った機材：PC(OS:Windows10,グラフィックハードウェア:NVIDIA GeForce RTX 2070)
+個人製作なので全て
+
+テキストメッセージの機能はdensanlabsサイトのNishio様のコードを参考にさせていただきました。
+https://densan-labs.net/tech/game/
+https://www.usamimi.info/%7Eguiprog/game_programming/gameProgramming.pdf
